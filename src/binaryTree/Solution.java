@@ -1,14 +1,5 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2017 All Rights Reserved.
- */
 package binaryTree;
 
-/**
- * 
- * @author qianwang.wq
- * @version $Id: Solution.java, v 0.1 2017年3月29日 下午3:09:06 qianwang.wq Exp $
- */
 public class Solution {
 
     public class TreeNode {
